@@ -7,6 +7,7 @@ export default function Headline(props) {
     transform-origin: center center 0px;
     transform-style: preserve-3d;
     cursor: pointer;
+    background-color: black;
   `;
   const StyledHeadline = styled.h1`
     padding: 0 0.2em;
